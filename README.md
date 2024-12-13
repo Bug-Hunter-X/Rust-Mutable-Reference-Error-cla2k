@@ -1,0 +1,2 @@
+# Rust Mutable Reference Bug
+This repository demonstrates a common error in Rust involving mutable references and how to solve it.  The `bug.rs` file contains code that attempts to create multiple mutable references to the same variable, leading to a compilation error. The `bugSolution.rs` file provides a corrected version of the code.
